@@ -74,7 +74,7 @@
     "href": "talks/pkg_installation/index.html#instalación-de-paquetes-desde-cran",
     "title": "Análisis Espacial del Dengue en R",
     "section": "Instalación de paquetes desde CRAN",
-    "text": "Instalación de paquetes desde CRAN\n\n\nUn paqueteVarios paquetes\n\n\n\n# Instalamos el paquete\ninstall.packages(\"ggplot2\", \n                 repos = \"http://cran.us.r-project.org\")\n\n\nThe downloaded binary packages are in\n    /var/folders/z5/ncncnvys0gd9c6g6sqc_jdc40000gn/T//RtmpiHNa3m/downloaded_packages\n\n# Verificamos la instalación\nlibrary(ggplot2)\n\n\n\n\n# Instalamos el paquete\ninstall.packages(c(\"sf\", \"tmap\", \"ggspatial\"), \n                 repos = \"http://cran.us.r-project.org\")\n\n\nThe downloaded binary packages are in\n    /var/folders/z5/ncncnvys0gd9c6g6sqc_jdc40000gn/T//RtmpiHNa3m/downloaded_packages\n\n# Verificamos la instalación\nlibrary(sf)"
+    "text": "Instalación de paquetes desde CRAN\n\n\nUn paqueteVarios paquetes\n\n\n\n# Instalamos el paquete\ninstall.packages(\"ggplot2\", \n                 repos = \"http://cran.us.r-project.org\")\n\n\nThe downloaded binary packages are in\n    /var/folders/z5/ncncnvys0gd9c6g6sqc_jdc40000gn/T//Rtmp6q1Md2/downloaded_packages\n\n# Verificamos la instalación\nlibrary(ggplot2)\n\n\n\n\n# Instalamos el paquete\ninstall.packages(c(\"sf\", \"tmap\", \"ggspatial\"), \n                 repos = \"http://cran.us.r-project.org\")\n\n\nThe downloaded binary packages are in\n    /var/folders/z5/ncncnvys0gd9c6g6sqc_jdc40000gn/T//Rtmp6q1Md2/downloaded_packages\n\n# Verificamos la instalación\nlibrary(sf)"
   },
   {
     "objectID": "talks/pkg_installation/index.html#instalación-de-paquete-desde-github",

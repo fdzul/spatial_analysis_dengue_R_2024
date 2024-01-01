@@ -40,5 +40,82 @@
     "title": "Libros en formato bookdown",
     "section": "",
     "text": "Libros en formato bookdown"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#temario",
+    "href": "talks/pkg_installation/index.html#temario",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Temario",
+    "text": "Temario\n\n\nInstalación de R\nInstalación de RStudio\nInstalación de paquetes en CRAN\nInstalación de paquetes en GitHub\nInstalación de paquetes tar.gz\nInstalación de paquetes Cran Task View."
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#temarios",
+    "href": "talks/pkg_installation/index.html#temarios",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Temarios",
+    "text": "Temarios\n\n\nMetapaquetes, Universos y Rverses\nETVerse, IVAverse, dengueverse\ndengueverse\n\nrgeomex\ndeneggs\ndehotspots\ndencontrol\ndenepikit"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#instalación-de-r",
+    "href": "talks/pkg_installation/index.html#instalación-de-r",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Instalación de R",
+    "text": "Instalación de R\n\n\nIr a la página oficial de R\nclick en download R para el Sistema Operativo (winOS, macOS, Linux)\nSeleccionar el CRAN Mirrors\nGuardar Archivo\nIr a la carpeta de descargas\nInstalar R"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#instalación-de-rstudio",
+    "href": "talks/pkg_installation/index.html#instalación-de-rstudio",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Instalación de RStudio",
+    "text": "Instalación de RStudio\n\n\nIr a la página oficial de RStudio\nclick en download RStudio\ndownload RStudio desktop for OS\nGuardar Archivo\nIr a la carpeta de descargas\nInstalar RStudio"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#instalación-de-paquetes-desde-cran",
+    "href": "talks/pkg_installation/index.html#instalación-de-paquetes-desde-cran",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Instalación de paquetes desde CRAN",
+    "text": "Instalación de paquetes desde CRAN\n\n\nUn paqueteVarios paquetes\n\n\n\n# Instalamos el paquete\ninstall.packages(\"ggplot2\", \n                 repos = \"http://cran.us.r-project.org\")\n\n\nThe downloaded binary packages are in\n    /var/folders/z5/ncncnvys0gd9c6g6sqc_jdc40000gn/T//RtmpiHNa3m/downloaded_packages\n\n# Verificamos la instalación\nlibrary(ggplot2)\n\n\n\n\n# Instalamos el paquete\ninstall.packages(c(\"sf\", \"tmap\", \"ggspatial\"), \n                 repos = \"http://cran.us.r-project.org\")\n\n\nThe downloaded binary packages are in\n    /var/folders/z5/ncncnvys0gd9c6g6sqc_jdc40000gn/T//RtmpiHNa3m/downloaded_packages\n\n# Verificamos la instalación\nlibrary(sf)"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#instalación-de-paquete-desde-github",
+    "href": "talks/pkg_installation/index.html#instalación-de-paquete-desde-github",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Instalación de paquete desde GitHub",
+    "text": "Instalación de paquete desde GitHub\n\n\ndevtoolsremotespak\n\n\n\n# Instalamos el paquete\ndevtools::install_github(\"fdzul/dendata\")\n\npak::pkg_install(\"fdzul/covid19mx\")\n\n\n\n\n# Instalamos el paquete\nremotes::install_github(\"fdzul/rhealthdiag\")\n# Verificamos la instalacion\nlibrary(rhealthdiag)"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#instalación-de-paquete-con-task-view",
+    "href": "talks/pkg_installation/index.html#instalación-de-paquete-con-task-view",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Instalación de paquete con Task View",
+    "text": "Instalación de paquete con Task View\n\n\nPrimero Instalamos el paquete ctv\n\n\nSeleccionamos el tópico.\nInstalamos el tópico."
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#instalación-de-paquete-binario",
+    "href": "talks/pkg_installation/index.html#instalación-de-paquete-binario",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Instalación de paquete binario",
+    "text": "Instalación de paquete binario\n\npara winOS\npara macOS"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#desafio",
+    "href": "talks/pkg_installation/index.html#desafio",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Desafio",
+    "text": "Desafio\n\n\nInstalar todos los paquetes para el análisis espacial\n\n\nSpatial\n\n\nInstalar todos los paquetes para el análisis espacio-temporal\n\n\nSpatioTemporal\n\n\nInstalar desde GitHub el paquete knox test"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#univero-de-vectores-en-r",
+    "href": "talks/pkg_installation/index.html#univero-de-vectores-en-r",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Univero de Vectores en R",
+    "text": "Univero de Vectores en R"
+  },
+  {
+    "objectID": "talks/pkg_installation/index.html#dios-botic",
+    "href": "talks/pkg_installation/index.html#dios-botic",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Dios Botic",
+    "text": "Dios Botic\n\n\nBio : https://fdzul.github.io/web_site_fadm/\nemail : felipe.dzul.m@gmail.com\ncelular : 9999580167\nslides: https://rococo-pothos-8ae204.netlify.app/talks/mia_mx/#/\n\n\n\n\ngithub.com/fdzul"
   }
 ]

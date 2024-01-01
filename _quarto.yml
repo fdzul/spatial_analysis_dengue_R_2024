@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Análisis Espacial del Dengue en R"
+  favicon: imagenes/chains_ticul_2023.jpg
+  twitter-card: true
+  navbar:
+    tools:
+      - icon: twitter
+        href: https://twitter.com/FdzulM
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Temario"
+        href: temario.html
+      - text: "Referencias"
+        href: links.html
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+margin-header: |
+  ![Logo image](imagenes/logo_curso_2024.png)
+

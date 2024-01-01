@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "temario.html",
+    "href": "temario.html",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "",
+    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  },
+  {
+    "objectID": "temario.html#audiencia",
+    "href": "temario.html#audiencia",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "",
+    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  },
+  {
+    "objectID": "temario.html#temario",
+    "href": "temario.html#temario",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Temario",
+    "text": "Temario"
+  },
+  {
+    "objectID": "temario.html#módulo-i.-requisitos-básicos",
+    "href": "temario.html#módulo-i.-requisitos-básicos",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Módulo I. Requisitos Básicos",
+    "text": "Módulo I. Requisitos Básicos\n\n\n\n\n\n\n\n\nInstalación de Paquetes\nDatos Espaciales\n\n\nMódulo II. Hotspots de los casos de dengue en las localidades urbanas endémicas de México.\n\n\n\n\n\n\n\n\nAnálisis Espacial del Dengue en R\nHotspots de Transmisión del Dengue\nHotspots de Transmisión del Dengue en R\n\n\n\nMódulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México\n\n\n\n\n\n\n\n\nHotspots de Vector del Dengue\nHotspots de Vector del Dengue en R\n\n\n\nMódulo IV. Modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\n\n\n\n\n\n\nMódulo V. Cadenas de tranmisión del dengue en las localidades urbanas endémicas de México.\n\n\nMódulo VI. Log Gaussian Cox Process Espacial en las localidades urbanas endémicas de México."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Objetivo General",
+    "section": "",
+    "text": "Objetivo General\nEl curso títulado Análisis Espacial del Dengue en R tiene como objetivo central desarrollar las competencias específicas para la identificación del riesgo de transmisión del dengue en áreas urbanas y metropolitanas de México usando información entomológica y epidemiológica con la finalidad orientar las acciones de prevención y control del Manejo Integrado de las Arbovirosis en México.\n\n\nObjetivos Específicos\n\nIdentificar los hotspots de la transmisión de las arbovirosis en las localidades urbanas endémicas de México.\nIdentificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.\nIdentificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.\nImplementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.\nGenerar los mapas de calor en las localidades urbanas endémicas de México.\nDesarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\nAudiencia\nEl curso de Análisis Espacial del Dengue en R esta complementado con el desarrollo de paquetes colectivamente llamados dengueverse (rgeomex, denhotspots, deneggs, dencontrol, denepikit) y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  }
+]

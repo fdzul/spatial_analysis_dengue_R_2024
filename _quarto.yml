@@ -3,10 +3,14 @@ project:
   output-dir: docs
 
 website:
+  page-footer: "Copyright 2024, Felipe Antonio Dzul Manzanilla | Fabián Correa-Morales"
   title: "Análisis Espacial del Dengue en R"
+  repo-url: https://github.com/fdzul/patial_analysis_dengue_R_2024-dev
+  repo-actions: [edit, issue]
   favicon: imagenes/chains_ticul_2023.jpg
   twitter-card: true
   navbar:
+    logo: imagenes/logo_curso_2024.png
     tools:
       - icon: twitter
         href: https://twitter.com/FdzulM

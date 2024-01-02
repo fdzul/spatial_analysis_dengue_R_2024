@@ -32,9 +32,9 @@ tibble::tibble(Tema = c("Instalar R",
 
 ```
 
--   [Instalación de Paquetes](https://animated-longma-729cee.netlify.app/talks/pkg_intallation/#1)
+-   [Instalación de Paquetes](https://calm-hummingbird-41cb33.netlify.app/talks/pkg_installation/#/)
 
--   [Datos Espaciales](https://animated-longma-729cee.netlify.app/talks/spatial_data/#1)
+-   [Datos Espaciales](https://calm-hummingbird-41cb33.netlify.app/talks/spatial_data/#/)
 
 ### Módulo II. Hotspots de los casos de dengue en las localidades urbanas endémicas de México.
 

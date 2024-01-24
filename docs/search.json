@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Objetivo General",
+    "title": "Audiencia",
     "section": "",
-    "text": "Objetivo General\nEl curso títulado Análisis Espacial del Dengue en R tiene como objetivo central desarrollar las competencias específicas para la identificación del riesgo de transmisión del dengue en áreas urbanas y metropolitanas de México usando información entomológica y epidemiológica con la finalidad orientar las acciones de prevención y control del Manejo Integrado de las Arbovirosis en México.\n\n\nObjetivos Específicos\n\nIdentificar los hotspots de la transmisión de las arbovirosis en las localidades urbanas endémicas de México.\nIdentificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.\nIdentificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.\nImplementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.\nGenerar los mapas de calor en las localidades urbanas endémicas de México.\nDesarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\nAudiencia\nEl curso de Análisis Espacial del Dengue en R esta complementado con el desarrollo de paquetes colectivamente llamados dengueverse (rgeomex, denhotspots, deneggs, dencontrol, denepikit) y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+    "text": "Audiencia\nEl curso de Análisis Espacial del Dengue en R esta complementado con el desarrollo de paquetes colectivamente llamados dengueverse (rgeomex, denhotspots, deneggs, dencontrol, denepikit) y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema.\n\n\nObjetivo General\nEl curso títulado Análisis Espacial del Dengue en R tiene como objetivo central desarrollar las competencias específicas para la identificación del riesgo de transmisión del dengue en áreas urbanas y metropolitanas de México usando información entomológica y epidemiológica con la finalidad orientar las acciones de prevención y control del Manejo Integrado de las Arbovirosis en México.\n\n\nObjetivos Específicos\n\nIdentificar los hotspots de la transmisión de las arbovirosis en las localidades urbanas endémicas de México.\nIdentificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.\nIdentificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.\nImplementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.\nGenerar los mapas de calor en las localidades urbanas endémicas de México.\nDesarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\nRequisitos"
   },
   {
     "objectID": "links.html",
@@ -124,5 +124,33 @@
     "title": "Análisis Espacial del Dengue en R",
     "section": "",
     "text": "Objetivo General"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-1-de-la-unidad-ii",
+    "href": "Labs.html#laboratorio-1-de-la-unidad-ii",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Laboratorio 1 de la Unidad II",
+    "text": "Laboratorio 1 de la Unidad II"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-1-de-la-unidad-iii",
+    "href": "Labs.html#laboratorio-1-de-la-unidad-iii",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Laboratorio 1 de la Unidad III",
+    "text": "Laboratorio 1 de la Unidad III"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-1-de-la-unidad-iv",
+    "href": "Labs.html#laboratorio-1-de-la-unidad-iv",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Laboratorio 1 de la Unidad IV",
+    "text": "Laboratorio 1 de la Unidad IV"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-1-de-la-unidad-v",
+    "href": "Labs.html#laboratorio-1-de-la-unidad-v",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "Laboratorio 1 de la Unidad V",
+    "text": "Laboratorio 1 de la Unidad V"
   }
 ]

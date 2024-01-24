@@ -25,7 +25,7 @@
     "href": "temario.html#módulo-i.-requisitos-básicos",
     "title": "Análisis Espacial del Dengue en R",
     "section": "Módulo I. Requisitos Básicos",
-    "text": "Módulo I. Requisitos Básicos\n\n\n\n\n\n\n\n\nInstalación de Paquetes\nDatos Espaciales\n\n\nMódulo II. Hotspots de los casos de dengue en las localidades urbanas endémicas de México.\n\n\n\n\n\n\n\n\nAnálisis Espacial del Dengue en R\nHotspots de Transmisión del Dengue\nHotspots de Transmisión del Dengue en R\n\n\n\nMódulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México\n\n\n\n\n\n\n\n\nHotspots de Vector del Dengue\nHotspots de Vector del Dengue en R\n\n\n\nMódulo IV. Modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\n\n\n\n\n\n\nMódulo V. Cadenas de tranmisión del dengue en las localidades urbanas endémicas de México.\n\n\nMódulo VI. Log Gaussian Cox Process Espacial en las localidades urbanas endémicas de México."
+    "text": "Módulo I. Requisitos Básicos\n\n\n\n\n\n\n\nInstalación de Paquetes\nDatos Espaciales\n\n\nMódulo II. Hotspots de los casos de dengue en las localidades urbanas endémicas de México.\n\n\n\n\n\n\n\nAnálisis Espacial del Dengue en R\nHotspots de Transmisión del Dengue\nHotspots de Transmisión del Dengue en R\n\n\n\nMódulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México\n\n\n\n\n\n\n\nHotspots de Vector del Dengue\nHotspots de Vector del Dengue en R\n\n\n\nMódulo IV. Modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\n\n\n\n\n\nMódulo V. Cadenas de tranmisión del dengue en las localidades urbanas endémicas de México.\n\n\nMódulo VI. Log Gaussian Cox Process Espacial en las localidades urbanas endémicas de México."
   },
   {
     "objectID": "index.html",
@@ -117,5 +117,12 @@
     "title": "Análisis Espacial del Dengue en R",
     "section": "Dios Botic",
     "text": "Dios Botic\n\n\nBio : https://fdzul.github.io/web_site_fadm/\nemail : felipe.dzul.m@gmail.com\ncelular : 9999580167\nslides: https://rococo-pothos-8ae204.netlify.app/talks/mia_mx/#/\n\n\n\n\ngithub.com/fdzul"
+  },
+  {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "",
+    "text": "Objetivo General"
   }
 ]

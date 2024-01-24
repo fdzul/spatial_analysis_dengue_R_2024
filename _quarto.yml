@@ -25,8 +25,12 @@ website:
         text: Home
       - text: "Temario"
         href: temario.html
+      - text: "Laboratorio"
+        href: Labs.html
       - text: "Referencias"
         href: links.html
+      - text: "Contacto"
+        href: contacto.html
 
 format:
   html:

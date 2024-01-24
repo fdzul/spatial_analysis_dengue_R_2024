@@ -2,10 +2,6 @@
 title: ""
 ---
 
-## Audiencia
-
-El curso esta complementado con el desarrollo de paquetes en R y el [manual para la identificación de los hotspots en las localidades urbanas endémicas](https://fdzul.github.io/manual_hotspots/). Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por *Aedes* de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema.
-
 ## Temario
 
 ## Módulo I. Requisitos Básicos
@@ -36,6 +32,8 @@ tibble::tibble(Tema = c("Instalar R",
 
 -   [Datos Espaciales](https://calm-hummingbird-41cb33.netlify.app/talks/spatial_data/#/)
 
+-   [Análisis Espacial del Dengue en R](https://calm-hummingbird-41cb33.netlify.app/talks/spatial_analysis_dengue/#/)  
+
 ### Módulo II. Hotspots de los casos de dengue en las localidades urbanas endémicas de México.
 
 ```{r temario_modulo_II, echo=FALSE}
@@ -64,7 +62,6 @@ tibble::tibble(Temas = c("Bases del SINAVE",
 
 ```
 
--   [Análisis Espacial del Dengue en R](https://animated-longma-729cee.netlify.app/talks/spatial_analysis_dengue/#1)
 -   [Hotspots de Transmisión del Dengue](https://animated-longma-729cee.netlify.app/talks/hotspots_cases/#1)
 -   [Hotspots de Transmisión del Dengue en R](https://animated-longma-729cee.netlify.app/talks/hotspots_cases_r/#1)
 

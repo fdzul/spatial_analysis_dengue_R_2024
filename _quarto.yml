@@ -25,7 +25,7 @@ website:
         text: Home
       - text: "Temario"
         href: temario.html
-      - text: "Laboratorio"
+      - text: "Labs"
         href: Labs.html
       - text: "Referencias"
         href: links.html

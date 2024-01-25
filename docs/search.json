@@ -123,7 +123,7 @@
     "href": "Labs.html",
     "title": "Análisis Espacial del Dengue en R",
     "section": "",
-    "text": "Objetivo General"
+    "text": "Esta es una prueba\n\n\n\n\n\n\n\nfruit\nprice\n\n\n\n\napple\n\n\n\n\n  | | pear | 1.37 | | orange | 3.09 |\n: Fruit prices {.striped .hover}"
   },
   {
     "objectID": "Labs.html#laboratorio-1-de-la-unidad-ii",
@@ -152,5 +152,12 @@
     "title": "Análisis Espacial del Dengue en R",
     "section": "Laboratorio 1 de la Unidad V",
     "text": "Laboratorio 1 de la Unidad V"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-1-de-la-unidad-i",
+    "href": "Labs.html#laboratorio-1-de-la-unidad-i",
+    "title": "Análisis Espacial del Dengue en R",
+    "section": "",
+    "text": "Esta es una prueba\n\n\n\n\n\n\n\nfruit\nprice\n\n\n\n\napple\n\n\n\n\n  | | pear | 1.37 | | orange | 3.09 |\n: Fruit prices {.striped .hover}"
   }
 ]

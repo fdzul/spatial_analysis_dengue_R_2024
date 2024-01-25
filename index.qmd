@@ -24,7 +24,4 @@ El curso títulado **Análisis Espacial del Dengue en R** tiene como objetivo ce
 
 6.  Desarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
 
-
 # Requisitos
-
-

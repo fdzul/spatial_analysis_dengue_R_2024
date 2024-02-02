@@ -88,9 +88,9 @@ tibble::tibble(Tema = c("Bajar las bases de Ovitrampas",
 
 ```
 
--   [Hotspots de Vector del Dengue](https://animated-longma-729cee.netlify.app/talks/hotspots_eggs/#1)
+-   [Hotspots de Vector del Dengue](https://calm-hummingbird-41cb33.netlify.app/talks/hotspots_eggs/#/)
 
--   [Hotspots de Vector del Dengue en R](https://animated-longma-729cee.netlify.app/talks/hotspots_eggs_r/#1)
+-   [Hotspots de Vector del Dengue en R](https://calm-hummingbird-41cb33.netlify.app/talks/hotspots_eggs_R/#/)
 
 ### Módulo IV. Modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
 
@@ -112,6 +112,4 @@ tibble::tibble(Tema = c("Hotspots de casos",
 
 ```
 
-### Módulo V. Cadenas de tranmisión del dengue en las localidades urbanas endémicas de México.
 
-### Módulo VI. Log Gaussian Cox Process Espacial en las localidades urbanas endémicas de México.

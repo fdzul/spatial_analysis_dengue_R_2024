@@ -25,3 +25,10 @@ El curso títulado **Análisis Espacial del Dengue en R** tiene como objetivo ce
 6.  Desarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
 
 # Requisitos
+
+- Computadora
+- Experiencia en la instalación de Software
+- claves del SINAVE y del Sistema Integral de Monitoreo de Vectores
+- bases de datos de ovitrampas de años anteriores (en txt o zip)
+- bajas la carpeta geocodificación.
+

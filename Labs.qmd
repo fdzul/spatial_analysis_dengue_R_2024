@@ -24,7 +24,6 @@ Instalar los siguientes paquete desde GitHub
    - [KrigR](https://github.com/ErikKusch/KrigR)
 
 
-
 ## Laboratorio 1 de la Unidad II
 
 ## Laboratorio 1 de la Unidad III

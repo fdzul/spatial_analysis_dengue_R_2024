@@ -16,13 +16,9 @@ El curso títulado **Análisis Espacial del Dengue en R** tiene como objetivo ce
 
 2.  Identificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.
 
-3.  Identificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.
+3.  Generar los mapas de calor en las localidades urbanas endémicas de México.
 
-4.  Implementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.
-
-5.  Generar los mapas de calor en las localidades urbanas endémicas de México.
-
-6.  Desarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
+4.  Desarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
 
 # Requisitos
 

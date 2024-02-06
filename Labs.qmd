@@ -4,7 +4,26 @@ title: ""
 
 ## Laboratorio 1 de la Unidad I
 
-<a target="_blank" href="https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+### Objetivo.
+
+Que el personal de vectores desarrolle las competencias para instalar paquetes desde [CRAN](https://cran.r-project.org), [GitHub](https://github.com) o archivos binarios.
+
+
+### Actividad
+
+Instalar los siguientes paquete desde CRAN
+
+   - [tidyverse](https://www.tidyverse.org)
+   - [easystats](https://easystats.github.io/easystats/)
+   - [tidymodels](https://www.tidymodels.org)
+   - [data.table](http://rdatatable.gitlab.io/data.table/)
+   - [reactable](https://glin.github.io/reactable/)
+   
+Instalar los siguientes paquete desde GitHub
+
+   - [KrigR](https://github.com/ErikKusch/KrigR)
+
+
 
 ## Laboratorio 1 de la Unidad II
 

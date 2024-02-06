@@ -6,10 +6,10 @@ title: ""
 
 ### Objetivo.
 
-Que el personal de vectores desarrolle las competencias para instalar paquetes desde [CRAN](https://cran.r-project.org), [GitHub](https://github.com) o archivos binarios.
+Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde [CRAN](https://cran.r-project.org), [GitHub](https://github.com) o archivos binarios.
 
 
-### Actividad
+### Actividad 1
 
 Instalar los siguientes paquete desde CRAN
 
@@ -25,6 +25,27 @@ Instalar los siguientes paquete desde GitHub
 
 
 ## Laboratorio 1 de la Unidad II
+
+
+### Objetivo.
+
+Que el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis hotspot en las localidades prioritarias del estado correspondiente.
+
+
+### Actividad 1
+
+1. Bajar la carpeta [geocodificación](https://github.com/fdzul/geocodificacion) de GitHub.
+
+2. Geocodificar las bases de datos históricas del [SINAVE](https://www.sinave.gob.mx).
+
+
+
+### Actividad 2
+
+1. Bajar la carpeta [hotspots_cases](https://github.com/fdzul/hotspots_cases) de GitHub.
+2. Realizar el análisis hotspots
+3. Hacer los mapa estáticos e interactivos
+
 
 ## Laboratorio 1 de la Unidad III
 

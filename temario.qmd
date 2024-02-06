@@ -113,3 +113,24 @@ tibble::tibble(Tema = c("Hotspots de casos",
 ```
 
 
+### Módulo V. **dengueverse** y funciones importante para la toma de desiciones.
+
+```{r temario_modulo_5, echo=FALSE}
+tibble::tibble(Tema = c("rgeomex",
+                        "densnv",
+                        "deneggs",
+                        "denhotspots"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
+                                  times = 4))) |>
+    reactable::reactable(defaultPageSize = 5,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 5,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+

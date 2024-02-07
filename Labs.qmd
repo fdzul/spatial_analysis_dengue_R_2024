@@ -8,46 +8,39 @@ title: ""
 
 Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde [CRAN](https://cran.r-project.org), [GitHub](https://github.com) o archivos binarios.
 
-
 ### Actividad 1
 
 Instalar los siguientes paquete desde CRAN
 
-   - [tidyverse](https://www.tidyverse.org)
-   - [easystats](https://easystats.github.io/easystats/)
-   - [tidymodels](https://www.tidymodels.org)
-   - [data.table](http://rdatatable.gitlab.io/data.table/)
-   - [reactable](https://glin.github.io/reactable/)
-   
+-   [tidyverse](https://www.tidyverse.org)
+-   [easystats](https://easystats.github.io/easystats/)
+-   [tidymodels](https://www.tidymodels.org)
+-   [data.table](http://rdatatable.gitlab.io/data.table/)
+-   [reactable](https://glin.github.io/reactable/)
+
 Instalar los siguientes paquete desde GitHub
 
-   - [KrigR](https://github.com/ErikKusch/KrigR)
-
+-   [KrigR](https://github.com/ErikKusch/KrigR)
 
 ## Laboratorio de la Unidad II
-
 
 ### Objetivo.
 
 Que el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis hotspot en las localidades prioritarias del estado correspondiente.
 
-
 ### Actividad 1
 
-1. Bajar la carpeta [geocodificación](https://github.com/fdzul/geocodificacion) de GitHub.
+1.  Bajar la carpeta [geocodificación](https://github.com/fdzul/geocodificacion) de GitHub.
 
-2. Geocodificar las bases de datos históricas del [SINAVE](https://www.sinave.gob.mx).
-
-
+2.  Geocodificar las bases de datos históricas del [SINAVE](https://www.sinave.gob.mx).
 
 ### Actividad 2
 
-1. Bajar la carpeta [hotspots_cases](https://github.com/fdzul/hotspots_cases) de GitHub.
+1.  Bajar la carpeta [hotspots_cases](https://github.com/fdzul/hotspots_cases) de GitHub.
 
-2. Realizar el análisis hotspots en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
+2.  Realizar el análisis hotspots en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
 
-3. Elaborar los mapas estáticos e interactivos
-
+3.  Elaborar los mapas estáticos e interactivos
 
 ## Laboratorio de la Unidad III
 
@@ -55,22 +48,20 @@ Que el personal de vectores desarrolle las competencias específicas para realiz
 
 Que el personal de vectores desarrolle las competencias específicas para realizar realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.
 
+### Actividad 2
+
+1.  Bajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019
+
+2.  Bajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.
 
 ### Actividad 2
 
-1. Bajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019
+1.  Bajar la carpeta [hotspots_vector](https://github.com/fdzul/hotspots_vector) de GitHub.
 
-2. Bajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.
+2.  Realizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
 
-### Actividad 2
-
-1. Bajar la carpeta [hotspots_vector](https://github.com/fdzul/hotspots_vector) de GitHub.
-
-2. Realizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
-
-3. Visualizar los mapas predictivos.
+3.  Visualizar los mapas predictivos.
 
 ## Laboratorio de la Unidad IV
-
 
 ## Laboratorio de la Unidad V

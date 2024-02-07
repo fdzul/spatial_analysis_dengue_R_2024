@@ -2,37 +2,18 @@
 title: ""
 ---
 
+<a href = "https://www.highstat.com/index.php/books2?view=article&id=11&catid=18"> ![](https://www.highstat.com/images/Both_Smaller.jpg)
 
-<a href = "https://www.highstat.com/index.php/books2?view=article&id=11&catid=18">
-![](https://www.highstat.com/images/Both_Smaller.jpg)
+<a href = "https://github.com/michelacameletti/Spatial-and-Spatio-Temporal-Bayesian-Models-with-R-INLA"> ![](https://github.com/michelacameletti/Spatial-and-Spatio-Temporal-Bayesian-Models-with-R-INLA/raw/master/cover.jpg)
 
+<a href = "https://ramanbala.github.io/dynamic-time-series-models-R-INLA/"> ![](https://ramanbala.github.io/dynamic-time-series-models-R-INLA/book_cover_image.png)
 
-<a href = "https://github.com/michelacameletti/Spatial-and-Spatio-Temporal-Bayesian-Models-with-R-INLA">
-![](https://github.com/michelacameletti/Spatial-and-Spatio-Temporal-Bayesian-Models-with-R-INLA/raw/master/cover.jpg)
+<a href = "https://www.paulamoraga.com/book-spatial/"> ![](https://www.paulamoraga.com/img/imagespaula/book-geospatial-img/bookcoverspatial.jpg)
 
-<a href = "https://ramanbala.github.io/dynamic-time-series-models-R-INLA/">
-![](https://ramanbala.github.io/dynamic-time-series-models-R-INLA/book_cover_image.png)
+<a href = "https://www.paulamoraga.com/book-geospatial/"> ![](https://www.paulamoraga.com/img/imagespaula/book-geospatial-img/bookcover.jpg) <a href = "https://r.geocompx.org"> ![](https://r.geocompx.org/images/cover.png)
 
+<a href = "https://py.geocompx.org"> ![](https://geocompx.org/static/img/book_cover_py_tmp_small.png)
 
+<a href = "https://bookdown.org/mcwimberly/gdswr-book/?fbclid=IwAR3wwMaVwKIiWrG76t4l8tFuwp9E1FvHtpbjHsTIVz8TShga8emHhROkfug"> ![](https://bookdown.org/mcwimberly/gdswr-book/images/cover.png)
 
-
-<a href = "https://www.paulamoraga.com/book-spatial/">
-![](https://www.paulamoraga.com/img/imagespaula/book-geospatial-img/bookcoverspatial.jpg)
-
-<a href = "https://www.paulamoraga.com/book-geospatial/">
-![](https://www.paulamoraga.com/img/imagespaula/book-geospatial-img/bookcover.jpg)
-<a href = "https://r.geocompx.org">
-![](https://r.geocompx.org/images/cover.png)
-
-<a href = "https://py.geocompx.org">
-![](https://geocompx.org/static/img/book_cover_py_tmp_small.png)
-
-
-<a href = "https://bookdown.org/mcwimberly/gdswr-book/?fbclid=IwAR3wwMaVwKIiWrG76t4l8tFuwp9E1FvHtpbjHsTIVz8TShga8emHhROkfug">
-![](https://bookdown.org/mcwimberly/gdswr-book/images/cover.png)
-
-<a href = "https://becarioprecario.bitbucket.io/spde-gitbook/">
-![](https://becarioprecario.bitbucket.io/spde-gitbook/graphics/book_cover.jpg)
-
-
-
+<a href = "https://becarioprecario.bitbucket.io/spde-gitbook/"> ![](https://becarioprecario.bitbucket.io/spde-gitbook/graphics/book_cover.jpg)

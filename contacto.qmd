@@ -6,8 +6,4 @@ title: ""
 
 telefono: 55 7474 5576
 
-correo: fabiancorrea@msn.com
-
-
-
-
+correo: fabiancorrea\@msn.com

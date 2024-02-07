@@ -112,7 +112,6 @@ tibble::tibble(Tema = c("Hotspots de casos",
 
 ```
 
-
 ### Módulo V. **dengueverse** y funciones importante para la toma de desiciones.
 
 ```{r temario_modulo_5, echo=FALSE}
@@ -132,5 +131,3 @@ tibble::tibble(Tema = c("rgeomex",
                          bordered = TRUE)
 
 ```
-
-

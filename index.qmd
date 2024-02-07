@@ -24,7 +24,4 @@ El curso títulado **Análisis Espacial del Dengue en R** tiene como objetivo ce
 
 - Computadora
 - Experiencia en la instalación de Software
-- Claves del SINAVE y del Sistema Integral de Monitoreo de Vectores
-- Bases de datos de ovitrampas de años anteriores (en txt o zip)
-- Bajar la carpeta geocodificación.
-
+- Claves del SINAVE y del Sistema Integral de Monitoreo de Vectores.

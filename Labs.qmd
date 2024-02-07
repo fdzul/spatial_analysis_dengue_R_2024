@@ -2,7 +2,7 @@
 title: ""
 ---
 
-## Laboratorio 1 de la Unidad I
+## Laboratorio de la Unidad I
 
 ### Objetivo.
 
@@ -24,7 +24,7 @@ Instalar los siguientes paquete desde GitHub
    - [KrigR](https://github.com/ErikKusch/KrigR)
 
 
-## Laboratorio 1 de la Unidad II
+## Laboratorio de la Unidad II
 
 
 ### Objetivo.
@@ -43,12 +43,34 @@ Que el personal de vectores desarrolle las competencias específicas para realiz
 ### Actividad 2
 
 1. Bajar la carpeta [hotspots_cases](https://github.com/fdzul/hotspots_cases) de GitHub.
-2. Realizar el análisis hotspots
-3. Hacer los mapa estáticos e interactivos
+
+2. Realizar el análisis hotspots en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
+
+3. Elaborar los mapas estáticos e interactivos
 
 
-## Laboratorio 1 de la Unidad III
+## Laboratorio de la Unidad III
 
-## Laboratorio 1 de la Unidad IV
+### Objetivo.
 
-## Laboratorio 1 de la Unidad V
+Que el personal de vectores desarrolle las competencias específicas para realizar realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.
+
+
+### Actividad 2
+
+1. Bajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019
+
+2. Bajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.
+
+### Actividad 2
+
+1. Bajar la carpeta [hotspots_vector](https://github.com/fdzul/hotspots_vector) de GitHub.
+
+2. Realizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
+
+3. Visualizar los mapas predictivos.
+
+## Laboratorio de la Unidad IV
+
+
+## Laboratorio de la Unidad V

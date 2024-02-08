@@ -95,17 +95,19 @@ tibble::tibble(Tema = c("Bajar las bases de Ovitrampas",
 ### Módulo IV. Modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
 
 ```{r temario_modulo_4, echo=FALSE}
-tibble::tibble(Tema = c("Hotspots de casos",
-                        "Hotspots del vector",
-                        "Definición del riesgo de transmisión",
-                        "Visualización del riesgo de transmisión"),
+tibble::tibble(Tema = c("Manejo Integrado de los Vectores",
+                        "Estratificación del Dengue",
+                        "Escenarios Operativos ó Epidemiologicos",
+                        "Definición de los Escenarios Operativos",
+                        "MIA & Biologia del Vector",
+                        "Manejo Integrado de las Arbovirosis en México"),
                Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
-                                  times = 4))) |>
-    reactable::reactable(defaultPageSize = 5,
+                                  times = 6))) |>
+    reactable::reactable(defaultPageSize = 6,
                          theme = reactablefmtr::flatly(),
                          filterable = FALSE,
                          striped = TRUE,
-                         minRows = 5,
+                         minRows = 6,
                          resizable = TRUE, 
                          wrap = FALSE, 
                          bordered = TRUE)

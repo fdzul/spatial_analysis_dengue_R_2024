@@ -99,7 +99,7 @@ tibble::tibble(Tema = c("Manejo Integrado de los Vectores",
                         "Estratificación del Dengue",
                         "Escenarios Operativos ó Epidemiologicos",
                         "Definición de los Escenarios Operativos",
-                        "MIA & Biologia del Vector",
+                        "MIA & Biología del Vector",
                         "Manejo Integrado de las Arbovirosis en México"),
                Instructor = c(rep("Felipe Antonio Dzul Manzanilla", 
                                   times = 6))) |>
@@ -113,6 +113,9 @@ tibble::tibble(Tema = c("Manejo Integrado de los Vectores",
                          bordered = TRUE)
 
 ```
+
+- [Modelo estratégico de focalización](ttps://calm-hummingbird-41cb33.netlify.app/talks/mia/#/)
+
 
 ### Módulo V. **dengueverse** y funciones importante para la toma de desiciones.
 

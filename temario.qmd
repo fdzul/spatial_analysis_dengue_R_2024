@@ -114,7 +114,7 @@ tibble::tibble(Tema = c("Manejo Integrado de los Vectores",
 
 ```
 
-- [Modelo estratégico de focalización](ttps://calm-hummingbird-41cb33.netlify.app/talks/mia/#/)
+- [Modelo estratégico de focalización](https://calm-hummingbird-41cb33.netlify.app/talks/mia/#/)
 
 
 ### Módulo V. **dengueverse** y funciones importante para la toma de desiciones.

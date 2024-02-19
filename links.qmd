@@ -17,3 +17,10 @@ title: ""
 <a href = "https://bookdown.org/mcwimberly/gdswr-book/?fbclid=IwAR3wwMaVwKIiWrG76t4l8tFuwp9E1FvHtpbjHsTIVz8TShga8emHhROkfug"> ![](https://bookdown.org/mcwimberly/gdswr-book/images/cover.png)
 
 <a href = "https://becarioprecario.bitbucket.io/spde-gitbook/"> ![](https://becarioprecario.bitbucket.io/spde-gitbook/graphics/book_cover.jpg)
+
+
+<a href = "https://geographicdata.science/book/intro.html">
+![](https://images.routledge.com/common/jackets/crclarge/978103244/9781032445953.jpg)
+
+<a href = "https://py.geocompx.org">
+![](https://geocompx.org/static/img/book_cover_py_tmp_small.png)
